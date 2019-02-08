@@ -2,7 +2,6 @@
 
 This repository is a try to `design` a proper project structure used for kaggle competition or fun data mining
 
-# :file_folder: Structure
 Name | Description |
 ------------ | -------------
 data/ | a folder containing data and data description
