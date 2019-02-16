@@ -10,3 +10,6 @@
 ||the submit affixed by "LGBM_hzq4"|3.731(>3.706)|
 |[elo_world_high_score_without_blending](https://www.kaggle.com/gpreda/elo-world-high-score-without-blending)|--|3.696|
 ||LightGBM, Recurrent|3.696|
+||the submit affixed by "LGBM_20190214"|3.709(>3.696)|
+|[Simple_LightGBM_without_blending](https://www.kaggle.com/mfjwr1/simple-lightgbm-without-blending/code#L10)|--|3.691|
+||LightGBM, Recurrent|?|
