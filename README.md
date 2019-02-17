@@ -1,6 +1,24 @@
-# Introduction
+### Table of Contents
 
-This repository is a try to `design` a proper project structure used for kaggle competition or fun data mining
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [To-dos](#To-dos)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Installation <a name="installation"></a>
+
+Nothing need to be installed or updated to run this project cause this project only aims at providing a proper organized file structure.
+
+## Project Motivation<a name="motivation"></a>
+
+For this project, I was interested in how to create a common-used file structure to make machine learning projects more organized and more readable.
+
+## File Descriptions <a name="files"></a>
+
+For more details, please refer to the branch named `template`.
+
+## To-dos<a name="To-dos"></a>
 
 # :memo: Goals which i want to achieve:
 
@@ -15,6 +33,8 @@ This repository is a try to `design` a proper project structure used for kaggle 
 # :memo: TODOs
 * during kaggle completion, beautify the structure
 
-# License
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 This repository is distributed under the GNU license.
+
+Well, must give credit to everyone whoeve commited to the open community! Anyway, feel free to use the code here as you would like!
