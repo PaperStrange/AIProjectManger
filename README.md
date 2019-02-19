@@ -13,9 +13,10 @@ model/submit | a folder containing files of each submit for competition
 timeline/ | a folder containing files indicating specific time arrangement of different competition period
 utils/ | a folder containing scripts or jupyter notebooks for the whole data processing
 utils/spiders | a folder containing spiders used for obtaining data online
-utils/test_edgetech | a folder containing scripts for applying edge technology to this project and evaluate
-utils/test_situation | a folder containing scripts for applying other situations which are more likely to happen in dairy life for this project and evaluate
-utils/test_situation/collector | a folder containing description files of the above testing
+utils/test | a folder containing several testing codes 
+utils/test/test_edgetech | a folder containing testing codes for the application of edge technology
+utils/test/test_situation | a folder containing testing codes for situational testing
+utils/test/test_situation/collector | a folder containing description files of the testing
 README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
 
