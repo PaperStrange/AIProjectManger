@@ -16,7 +16,6 @@ utils/spiders | a folder containing spiders used for obtaining data online
 utils/test | a folder containing several testing codes 
 utils/test/test_edgetech | a folder containing testing codes for the application of edge technology
 utils/test/test_situation | a folder containing testing codes for situational testing
-utils/test/test_situation/collector | a folder containing description files of the testing
 README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
 
