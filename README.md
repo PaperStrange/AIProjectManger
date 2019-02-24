@@ -16,6 +16,9 @@ utils/spiders | a folder containing spiders used for obtaining data online
 utils/test | a folder containing several testing codes 
 utils/test/test_edgetech | a folder containing testing codes for the application of edge technology
 utils/test/test_situation | a folder containing testing codes for situational testing
+utils/data_process.ipynb | a jupyter notebook containing all needed data processing process during the competition
+utils/data_process.ipynb | a jupyter notebook containing all tricks for more efficient programming during the competition
+utils/test/test_situation | a folder containing testing codes for situational testing
 README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
 
