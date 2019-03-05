@@ -20,7 +20,6 @@ utils/pipeline | a python script to show the example of [ETL pipeline](https://e
 utils/spiders | a folder containing spiders used for obtaining data online
 utils/test | a folder containing several testing codes 
 utils/test/situation_test | a folder containing codes for situational test
-utils/test/situation_test/nexus.ipynb | a jupyter notebook containing records for different nexus in a specific business situation
 utils/test/unit_test | a folder containing unit test codes for better TDD
 utils/test/unit_test/test_data_processing.py | a python script containing unit test codes for data processing procedure
 utils/data_process.ipynb | a jupyter notebook containing all needed data processing process during the competition
