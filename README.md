@@ -2,9 +2,10 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [To-dos](#To-dos)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Branch Description](#branch)
+4. [File Descriptions](#files)
+5. [To-dos](#To-dos)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -14,9 +15,15 @@ Nothing need to be installed or updated to run this project cause this project o
 
 For this project, I was interested in how to create a common-used file structure to make machine learning projects more organized and more readable.
 
+## Branch Description<a name="branch"></a>
+
+Master branch only contains the general descriptions of this project.
+
+Full version of this project is stored in "template" branch while "develop" branch contains changes which haven't been checked and reviewed. Futhermore, the situation test of this project is usually included in branch named by "ie_xxx". 
+
 ## File Descriptions <a name="files"></a>
 
-For more details, please refer to the branch named `template`.
+For more details of this organized file structure, please refer to the branch named `template`.
 
 ## To-dos<a name="To-dos"></a>
 
