@@ -1,4 +1,4 @@
-# File structure
+## File structure
 
 Name | Description |
 ------------ | -------------
@@ -28,6 +28,14 @@ utils/data_process_tricks.ipynb | a jupyter notebook containing all useful trcik
 -- | --
 README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
+
+## Good Habits
+
+* Use logging pythob package to create log during the process 
+
+* Use yapf or pylint python package to find bugs and style problems in Python source code
+
+* Use pytest python package to apply unit test or operate TDD 
 
 # License
 
