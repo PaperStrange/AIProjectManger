@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: LightGBM template
+about: Use this template to accelerate code development
 title: ''
-labels: ''
+labels: 'Mircosoft'
 assignees: ''
 
 ---
