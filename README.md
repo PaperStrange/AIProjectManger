@@ -17,6 +17,7 @@ timeline/ | a folder containing files indicating specific time arrangement of di
 utils/ | a folder containing scripts or jupyter notebooks for the whole data processing
 utils/pipeline | a folder containing template python scripts used for a quick start of pipline construction
 utils/pipeline | a python script to show the example of [ETL pipeline](https://en.wikipedia.org/wiki/Extract,_transform,_load) using sklearn pakage
+utils/pipeline/pipeline.md | a markdown file to record my design thinking of pipeline
 utils/spiders | a folder containing spiders used for obtaining data online
 utils/test | a folder containing several testing codes 
 utils/test/situation_test | a folder containing codes for situational test
@@ -28,7 +29,8 @@ utils/data_process_tricks.ipynb | a jupyter notebook containing all useful trcik
 -- | --
 README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
-
+coding_style.md | a markdown file to record my design thinking of coding style such as name, comment and docstring, re-construction
+ 
 ## Good Habits
 
 * Use logging pythob package to create log during the process 
