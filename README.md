@@ -1,4 +1,6 @@
-TODO 2019/3/12: complete the structure
+:white_check_mark: 2019/3/12: complete the structure
+
+TODO 2019/3/18: display the structure tree using mind map
 
 ## File structure
 
@@ -35,11 +37,11 @@ coding_style.md | a markdown file to record my design thinking of coding style s
  
 ## Good Habits
 
-* Use logging pythob package to create log during the process 
+* Use `logging` python package to create log
 
-* Use yapf or pylint python package to find bugs and style problems in Python source code
+* Use `yapf` or `pylint` python package to rectify improper code styles
 
-* Use pytest python package to apply unit test or operate TDD 
+* Use `pytest` python package to apply unit test
 
 # License
 
