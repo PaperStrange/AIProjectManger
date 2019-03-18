@@ -3,45 +3,36 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [Branch Description](#branch)
-4. [File Descriptions](#files)
-5. [To-dos](#To-dos)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [To-dos](#To-dos)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
-Nothing need to be installed or updated to run this project cause this project only aims at providing a proper organized file structure.
+Nothing need to be installed or updated to run this project.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in how to create a common-used file structure to make machine learning projects more organized and more readable.
+In this project, I was interested in how to create a common-used file structure to make machine learning projects more organized and more readable.
 
 ## Branch Description<a name="branch"></a>
 
 Master branch only contains the general descriptions of this project.
 
-Full version of this project is stored in "template" branch while "develop" branch contains changes which haven't been checked and reviewed. Futhermore, the situation test of this project is usually included in branch named by "ie_xxx". 
-
-## File Descriptions <a name="files"></a>
-
-For more details of this organized file structure, please refer to the branch named `template`.
+Full version of this file structure is introduced in "template" branch in detail. "develop" branch contains TODOs which haven't been checked and reviewed. The applications of this file structure are displayed in several branches named by "ie_xxx" respectively. 
 
 ## To-dos<a name="To-dos"></a>
 
-:memo: Goals which i want to achieve:
+:memo: Goals which i want to achieve at now:
 
-* a structure containing full procedures of deploying model to a specific reality problem
-* a structure containing efficient tools for the whole data processing for convenient code reconstruct
+* minimize the cost of familiar and maximize the flexiblity
 
 :memo: Functions which is not for consideration for the moment
 
-* `automatcally` connects data processing and modeling
-* deploy online by python package like tensorflow, flask, Django .etc
-
-:memo: TODOs
-* during kaggle completion, beautify the structure
+* connects data processing and modeling
+* deploy this organizations online by flask, Django .etc
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 This repository is distributed under the GNU license.
 
-Well, must give credit to everyone whoeve commited to the open community! Anyway, feel free to use the code here as you would like!
+Must give credit to everyone whoeve commited to the open community! Anyway, feel free to use the code here as you would like!
