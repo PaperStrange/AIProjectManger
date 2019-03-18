@@ -1,6 +1,6 @@
-:white_check_mark: 2019/3/12: complete the structure
+:ballot_box_with_check: 2019/3/12: complete the structure
 
-TODO 2019/3/18: display the structure tree using mind map
+:bulb: TODO 2019/3/18: display the structure tree using mind map
 
 ## File structure
 
