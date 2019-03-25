@@ -1,6 +1,6 @@
 ---
-name: Style copied from LightGBM repo
-about: Describe this issue template's purpose here.
+name: LightGBM repo style
+about: The style copied from LightGBM repository
 title: ''
 labels: ''
 assignees: ''
