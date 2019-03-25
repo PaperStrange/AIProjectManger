@@ -1,5 +1,5 @@
 ---
-name: LightGBM style
+name: LightGBM repo style
 about: The style copied from LightGBM repository
 title: ''
 labels: ''
