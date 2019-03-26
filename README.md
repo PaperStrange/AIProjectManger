@@ -3,7 +3,7 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [Branch Description](#branch)
-4. [Proposed project structure](#structure)
+4. [A proposed project structure](#structure)
 5. [Good Habits](#Habits)
 6. [To-dos](#To-dos)
 7. [Licensing, Authors, and Acknowledgements](#licensing)
@@ -22,7 +22,7 @@ Master branch only contains the general descriptions of this project.
 
 Full version of this file structure is introduced in "template" branch in detail. "develop" branch contains TODOs which haven't been checked and reviewed. The applications of this file structure are displayed in several branches named by "ie_xxx" respectively. 
 
-## Proposed project structure (the same as what is shown in "template" branch)<a name="structure"></a>
+## A proposed project structure (the same as what is shown in "template" branch)<a name="structure"></a>
 
 Name | Description |
 ------------ | -------------
