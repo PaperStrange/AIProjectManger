@@ -1,6 +1,10 @@
-:ballot_box_with_check: 2019/3/12: complete the structure
+:ballot_box_with_check: 2019/3/12: complete the structure 
 
-:bulb: TODO 2019/3/18: display the structure tree using mind map
+:arrow_forward: (Waiting)TODO 2019/3/18: display the structure tree using mind map
+
+:bulb: TODO/4/1: balance the customer need and programming design (e.g the use of cutomer story method)
+
+:bulb: TODO 2019/4/5: (1) modify the template files in each "collector" folder; (2) add instructions of using this repository
 
 ## File structure
 
