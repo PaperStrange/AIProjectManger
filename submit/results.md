@@ -8,4 +8,6 @@
 ||Santander_EDA_and_Prediction_ori_hzq.csv: model, recurrent|0.9|
 ||Santander_EDA_and_Prediction_mod_hzq_20190315.csv: LightGBM, over-sampling|0.814|
 |[LGB 2 leaves + augment](https://www.kaggle.com/jiweiliu/lgb-2-leaves-augment)|LightGBM|0.901|
-|--|Stacking (LightGBM, XGBoost, Catboost)||
+|--|Stacking (LightGBM, XGBoost, Catboost)|0.897|
+|--|XGBoost|0.899|
+|--|CatBoost|0.895|
