@@ -1,12 +1,12 @@
 :ballot_box_with_check: 2019/3/12: complete the structure 
 
-:arrow_forward: (Waiting)TODO 2019/3/18: display the structure tree using mind map
+:arrow_forward:(Waiting) TODO 2019/3/18: display the structure tree using mind map
 
-:bulb: TODO 2019/4/1: balance the customer need and programming design (e.g the use of cutomer story method)
+:arrow_forward:(Waiting) TODO 2019/4/1: balance the customer need and programming design (e.g the use of cutomer story method)
 
-:bulb: TODO 2019/4/5: (1) modify the template files in each "collector" folder; (2) add instructions of using this repository
+:bulb:&:warning: TODO 2019/4/14: (1) modify the template files in each "collector" folder; (2) add instructions of using this repository
 
-## File structure
+## Proposed project structure (the same as what is shown in "template" branch)<a name="structure"></a>
 
 Name | Description |
 ------------ | -------------
@@ -17,10 +17,16 @@ data/data_raw| a folder containing  raw data obtained by direct downloading or s
 -- | --
 model/ | a folder containing jupyter notebooks of different modeling and descriptions (e.g. loss) for modeling
 model/collector | a folder containing description files for modeling
-model/save | a folder containing files of saved models
-model/submit | a folder containing files of each submit for competition
+model/collector/tricks_collector.md | a markdown file to record tricks applied when modeling as well as the result
+model/saved_models | a folder containing files of saved models
+model/test.ipynb | a jupyter notebook containing test part of a modeling procedure
+model/train_valid.ipynb | a jupyter notebook containing train and validation parts of a modeling procedure
 -- | --
-timeline/ | a folder containing files indicating specific time arrangement of different competition period
+submit/ | a folder containing submitted csv files and result record files
+submit/results.md | a markdown file to record each submit with model usage, scores etc. 
+-- | --
+timeline/ | a folder containing governing files to keep trace of competition
+timeline/Timeline_Year.Month.Day_who.ppt | a template to show a possible timeline government method
 -- | --
 utils/ | a folder containing scripts or jupyter notebooks for the whole data processing
 utils/pipeline | a folder containing template python scripts used for a quick start of pipline construction
@@ -38,15 +44,9 @@ utils/data_process_tricks.ipynb | a jupyter notebook containing all useful trcik
 README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
 coding_style.md | a markdown file to record my design thinking of coding style such as name, comment and docstring, re-construction
- 
-## Good Habits
 
-* Use `logging` python package to create log
-
-* Use `yapf` or `pylint` python package to rectify improper code styles
-
-* Use `pytest` python package to apply unit test
-
-# License
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 This repository is distributed under the GNU license.
+
+Must give credit to everyone whoeve commited to the open community! Anyway, feel free to use the code here as you would like!
