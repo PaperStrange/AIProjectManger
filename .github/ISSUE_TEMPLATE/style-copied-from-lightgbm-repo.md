@@ -1,14 +1,14 @@
 ---
-name: LightGBM template
-about: Use this template to accelerate code development
+name: Style copied from LightGBM repo
+about: Describe this issue template's purpose here.
 title: ''
-labels: 'Mircosoft'
+labels: ''
 assignees: ''
 
 ---
 
 <!--
-Please search your question on previous issues, Stack Overflow (https://stackoverflow.com/questions/tagged/lightgbm) or other search engines before you open a new one.
+Please search your question on previous issues, Stack Overflow (url here) or other search engines before you open a new one.
 -->
 
 <!--
@@ -38,4 +38,3 @@ LightGBM version or commit hash:
 1.
 2.
 3.
-
