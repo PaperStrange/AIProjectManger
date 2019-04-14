@@ -33,10 +33,16 @@ data/data_raw| a folder containing  raw data obtained by direct downloading or s
 -- | --
 model/ | a folder containing jupyter notebooks of different modeling and descriptions (e.g. loss) for modeling
 model/collector | a folder containing description files for modeling
-model/save | a folder containing files of saved models
-model/submit | a folder containing files of each submit for competition
+model/collector/tricks_collector.md | a markdown file to record tricks applied when modeling as well as the result
+model/saved_models | a folder containing files of saved models
+model/test.ipynb | a jupyter notebook containing test part of a modeling procedure
+model/train_valid.ipynb | a jupyter notebook containing train and validation parts of a modeling procedure
 -- | --
-timeline/ | a folder containing files indicating specific time arrangement of different competition period
+submit/ | a folder containing submitted csv files and result record files
+submit/results.md | a markdown file to record each submit with model usage, scores etc. 
+-- | --
+timeline/ | a folder containing governing files to keep trace of competition
+timeline/Timeline_Year.Month.Day_who.ppt | a template to show a possible timeline government method
 -- | --
 utils/ | a folder containing scripts or jupyter notebooks for the whole data processing
 utils/pipeline | a folder containing template python scripts used for a quick start of pipline construction
