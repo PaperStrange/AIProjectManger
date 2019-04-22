@@ -6,6 +6,8 @@
 
 :bulb:&:warning: TODO 2019/4/14: (1) modify the template files in each "collector" folder; (2) add instructions of using this repository
 
+:bulb: TODO 2019/4/22: need a markdown file to display findings by story style
+
 ## Proposed project structure (the same as what is shown in "template" branch)<a name="structure"></a>
 
 Name | Description |
