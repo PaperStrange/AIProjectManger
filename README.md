@@ -1,26 +1,10 @@
-### Table of Contents
+:ballot_box_with_check: 2019/3/12: complete the structure 
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [Branch Description](#branch)
-4. [Proposed project structure](#structure)
-5. [Good Habits](#Habits)
-6. [To-dos](#To-dos)
-7. [Licensing, Authors, and Acknowledgements](#licensing)
+:arrow_forward:(Waiting) TODO 2019/3/18: display the structure tree using mind map
 
-## Installation <a name="installation"></a>
+:arrow_forward:(Waiting) TODO 2019/4/1: balance the customer need and programming design (e.g the use of cutomer story method)
 
-Nothing need to be installed or updated to run this project.
-
-## Project Motivation<a name="motivation"></a>
-
-In this project, I was interested in how to create a common-used file structure to make machine learning projects more organized and more readable.
-
-## Branch Description<a name="branch"></a>
-
-Master branch only contains the general descriptions of this project.
-
-Full version of this file structure is introduced in "template" branch in detail. "develop" branch contains TODOs which haven't been checked and reviewed. The applications of this file structure are displayed in several branches named by "ie_xxx" respectively. 
+:bulb:&:warning: TODO 2019/4/14: (1) modify the template files in each "collector" folder; (2) add instructions of using this repository
 
 ## Proposed project structure (the same as what is shown in "template" branch)<a name="structure"></a>
 
@@ -60,25 +44,6 @@ utils/data_process_tricks.ipynb | a jupyter notebook containing all useful trcik
 README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
 coding_style.md | a markdown file to record my design thinking of coding style such as name, comment and docstring, re-construction
- 
-## Good Habits<a name="Habits"></a>
-
-* Use `logging` python package to create log
-
-* Use `yapf` or `pylint` python package to rectify improper code styles
-
-* Use `pytest` python package to apply unit test
-
-## To-dos<a name="To-dos"></a>
-
-:memo: Goals which i want to achieve at now:
-
-* minimize the cost of familiar and maximize the flexiblity
-
-:memo: Functions which is not for consideration for the moment
-
-* connects data processing and modeling
-* deploy this organizations online by flask, Django .etc
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
