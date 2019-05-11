@@ -4,7 +4,7 @@
 2. [Project Motivation](#motivation)
 3. [Branch Description](#branch)
 4. [A proposed project structure](#structure)
-5. [Good Habits](#Habits)
+5. [Instruction to deploy](#instruction)
 6. [To-dos](#To-dos)
 7. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -55,13 +55,13 @@ README.txt | a file containing all descriptions of this repository for new user
 requirements.txt | a file containing all required packages of `python` for checking
 coding_style.md | a markdown file to record my design thinking of coding style such as name, comment and docstring, re-construction
  
-## Good Habits<a name="Habits"></a>
+## Instruction to deploy<a name="instructions"></a>
 
-* Use `logging` python package to create log
+1. clone or download all repository with **master** branch
 
-* Use `yapf` or `pylint` python package to rectify improper code styles
+2. read all descriptions listed in the section "A proposed project structure" of this README.md file carefully, make sure get the idea of the usage of each folder and each file.
 
-* Use `pytest` python package to apply unit test
+3. Guided by the management of your project, use the specific folder and file templates to accelerate the accomplishment of specific tasks. For example , when preprocessing data , use the template notebook "data_process . Ipynb " and "data_process_tricks . Ipynb " located in " utils " folder to assist programming , while building model , the folder " model " and other notebooks in " utils " folder will be helpful .
 
 ## To-dos<a name="To-dos"></a>
 
