@@ -4,7 +4,7 @@
 
 :arrow_forward:(Waiting) TODO 2019/4/1: balance the customer need and programming design (e.g the use of cutomer story method)
 
-:bulb:&:warning: TODO 2019/4/14: (1) modify the template files in each "collector" folder; (2) add instructions of using this repository
+:bulb:&:warning: TODO 2019/5/11: (1) modify the template files in each "collector" folder; 
 
 :bulb: TODO 2019/4/22: need a markdown file to display findings by story style
 
