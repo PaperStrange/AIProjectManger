@@ -2,11 +2,26 @@
 
 :arrow_forward:(Waiting) TODO 2019/3/18: display the structure tree using mind map
 
-:arrow_forward:(Waiting) TODO 2019/4/1: balance the customer need and programming design (e.g the use of cutomer story method)
+:arrow_forward:(Waiting) TODO 2019/4/1: balance the customer need and programming design (e.g the use of customer story method)
 
 :bulb:&:warning: TODO 2019/5/11: (1) modify the template files in each "collector" folder; 
 
 :bulb: TODO 2019/4/22: need a markdown file to display findings by story style
+
+---
+
+## Instructions to use
+
+This project mainly focuses on a disciplined and better-arranged AI project structure. By default, project is divided in sicx parts: *data*, *download*, *model*, *submit(for competitions like kaggle)*, *timeline*, *utils*. 
+
+Commonly, whole steps of AI project include three parts such as data pre-processing, model training, testing, deploying and post (by different platforms, like website or APP). Corresponding to different steps, different folder is expected to be used. 
+
+* For the first data processing step, folder *data* is used to store raw (data_raw child folder) or processed data (data_processed child folder) as well as processing description files or tricks (collector child folder). Folder *download* is used to store the downloaded model kernels in each child folders assigned by the correlated kernel name + platform name; 
+* For the second training, testing, deploying step, folder *model* is used to store save models (saved_models child folder), jupyter notebooks, model tuning tricks or experiences (collector child folder). 
+* For the third post step, folder *submit* is used to store all kinds of posting files. Especially for AI competition, each submit could be recorded in *results.md*. 
+
+Besides, folder *timeline* is used for the project management, for example, storing different versions of project timeline files. Some common-used tools to accelerate the construction of AI project are stored in folder *utils* which is easy to be expanded as you like. Further descriptions for each folder or child folder, child file are listed in the sheet below. 
+
 
 ## Proposed project structure (the same as what is shown in "template" branch)<a name="structure"></a>
 
